@@ -375,6 +375,9 @@
     "generic": "Error"
   },
   "connectWallet": "Connect wallet",
+  "profile": {
+    "modalTitle": "Profile"
+  },
   "keplr": {
     "install": "Install Keplr",
     "wallet": "Keplr Wallet",
