@@ -378,7 +378,8 @@
   "profile": {
     "modalTitle": "Profile",
     "balance": "Balance",
-    "wallet": "Wallet"
+    "wallet": "Wallet",
+    "viewAllAssets": "View all assets"
   },
   "keplr": {
     "install": "Install Keplr",
